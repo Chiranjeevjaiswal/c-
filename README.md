@@ -1,2 +1,2 @@
-# c-
-My university practice c++, program  
+# c++
+paractice c++ program given by the university 
